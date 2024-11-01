@@ -4,11 +4,7 @@
 # Team of 2: 
     author1: Chengkai Yang
     Email:  cyang23@bu.edu
-    BU_ID: U70568482
 
-    author2: Jingbo Wang
-    Email: jw6347@bu.edu
-    BU_ID: U04536921 
 
 
 
