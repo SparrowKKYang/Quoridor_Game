@@ -1,4 +1,4 @@
-# CS611-Assignment 3
+# Read me in Code view
 ## Name of Assignment: Quoridor game
 ---------------------------------------------------------------------------
 # Team of 2: 
